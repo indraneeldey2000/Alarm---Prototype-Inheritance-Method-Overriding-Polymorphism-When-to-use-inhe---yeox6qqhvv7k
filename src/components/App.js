@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@indraneeldey2000 
-khairnarsneha
-/
-Alarm---Prototype-Inheritance-Method-Overriding-Polymorphism-When-to-use-inhe---zeazkyrc3rhl
-Public
-generated from Newton-School/alarm-project-boilerplate
-Fork your own copy of khairnarsneha/Alarm---Prototype-Inheritance-Method-Overriding-Polymorphism-When-to-use-inhe---zeazkyrc3rhl
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Alarm---Prototype-Inheritance-Method-Overriding-Polymorphism-When-to-use-inhe---zeazkyrc3rhl/src/components/App.js /
-@khairnarsneha
-khairnarsneha Update App.js
-Latest commit 860f190 on Dec 21, 2022
- History
- 1 contributor
-89 lines (74 sloc)  2.24 KB
-
 import React from 'react'
 import '../styles/App.css';
 import AlarmContainer from './alarmContainer';
@@ -117,18 +87,3 @@ const App = () => {
 
 
 export default App;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Alarm---Prototype-Inheritance-Method-Overriding-Polymorphism-When-to-use-inhe---zeazkyrc3rhl/App.js at master · khairnarsneha/Alarm---Prototype-Inheritance-Method-Overriding-Polymorphism-When-to-use-inhe---zeazkyrc3rhl
